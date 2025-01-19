@@ -6,11 +6,13 @@
 
 I am currently developing a 2-D sidescrolling beat'em up in Gamemaker studio as well as a 2.5D metroidvania style platformer in Unity.
 
+I will also be updating my Github profile with any projects I work on using Python, Java, or C++.
+
 ## Current Learnings
 
 ### Python and SQL
 
-I am a chemical engineer by degree but I have found that my passion lies in development and as such am self-teaching in Python, C++, and Java. I have made the commitment to those languages.
+I am a chemical engineer by degree but I have found that my passion lies in development and as such am self-teaching in Python, C++, SQL, and Java. I have made the commitment to those languages.
 
 ## Help outreach
 
