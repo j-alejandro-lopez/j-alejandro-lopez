@@ -10,7 +10,7 @@ I am currently developing a 2-D sidescrolling beat'em up in Gamemaker studio as 
 
 ### Python and SQL
 
-I am a chemical engineer by degree but I have found that my passion lies in development and as such am self-teaching in both Python and SQL. I have made the commitment to those languages.
+I am a chemical engineer by degree but I have found that my passion lies in development and as such am self-teaching in Python, C++, and Java. I have made the commitment to those languages.
 
 ## Help outreach
 
